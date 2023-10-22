@@ -6999,6 +6999,9 @@
   "hashids": [
     "flit-core"
   ],
+  "hass-data-detective": [
+    "setuptools"
+  ],
   "hass-nabucasa": [
     "setuptools"
   ],
